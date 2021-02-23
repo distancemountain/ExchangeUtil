@@ -18,7 +18,7 @@ import com.glory.exchange.trading.ITradingService;
 import com.glory.exchange.trading.OkexTradingService;
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-28
  */
 public class TradingServiceFactory {
 

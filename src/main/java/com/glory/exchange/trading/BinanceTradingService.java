@@ -39,7 +39,7 @@ import com.glory.exchange.signature.ISignature;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-26
  */
 public final class BinanceTradingService extends TradingService implements ITradingService {
 

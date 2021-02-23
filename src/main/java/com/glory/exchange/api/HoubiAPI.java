@@ -3,10 +3,9 @@ package com.glory.exchange.api;
 import java.util.HashMap;
 import java.util.Map;
 
-
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-22
  */
 public final class HoubiAPI {
 	

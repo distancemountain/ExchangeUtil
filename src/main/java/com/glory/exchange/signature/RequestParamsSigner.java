@@ -18,7 +18,7 @@ import com.glory.exchange.common.Constants;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-26
  */
 abstract class RequestParamsSigner implements ISignature {
 	

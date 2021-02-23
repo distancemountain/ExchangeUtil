@@ -13,7 +13,7 @@ import com.glory.exchange.signature.ISignature;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-28
  */
 public abstract class TradingService implements ITradingService {
 

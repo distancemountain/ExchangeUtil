@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-23
  */
 public class BaseForm implements Serializable {
 

@@ -15,7 +15,7 @@ import com.glory.exchange.common.Constants;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-25
  */
 public final class HoubiParamsSigner extends RequestParamsSigner {
 	

@@ -11,7 +11,7 @@ import com.glory.exchange.signature.ISignature;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-27
  */
 public interface ITradingService {
 

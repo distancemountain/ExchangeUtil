@@ -5,7 +5,7 @@ import org.apache.http.client.fluent.Request;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-22
  */
 public class CoinexProfiles {
 

@@ -24,7 +24,7 @@ import com.glory.exchange.signature.OkexParamsSigner;
 
 /**
  * @Author : glory
- * @since  : 2020-11-20
+ * @since  : 2020-11-24
  */
 public class OkexMarketService extends MarketService implements IMarketService {
 

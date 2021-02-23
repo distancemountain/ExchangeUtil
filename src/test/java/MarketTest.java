@@ -1,7 +1,8 @@
 import com.glory.exchange.MarketServiceFactory;
 
 public class MarketTest {
-	
+
+
 	public static void main(String[] args) {
 		String accessKey1 = "";
 		String secretkey1 = "";
